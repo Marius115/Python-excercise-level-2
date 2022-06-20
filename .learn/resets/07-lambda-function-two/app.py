@@ -1,4 +1,3 @@
-rapid = lambda char: char[:-1:]
 
 
 
